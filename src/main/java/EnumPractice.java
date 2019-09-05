@@ -11,6 +11,7 @@ public class EnumPractice {
 
         takeSeasonAction( Season.WINTER );
         takeSeasonAction(Season.SPRING);
+        takeSeasonAction(Season.FALL);
 
 
     }
